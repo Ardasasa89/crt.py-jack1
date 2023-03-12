@@ -27,7 +27,7 @@ If code doesn't work, please come to my Discord server and let me know about the
 
 
 #Kullanıcıdan Link Al
-mail = input("Lütfen Siteyi Giriniz!")
+mail = input("Siteyi Giriniz!")
 mail = x + mail 
 
 #işlerimizi yapalım 
