@@ -25,6 +25,8 @@ print('''\
 Discord: Jack 1#1321 eğer çalışmaz ise :) discord.gg/hormon sunucusuna gelerek soru sorabilirsiniz cevaplarım
 If code doesn't work, please come to my Discord server and let me know about the error you're experiencing''')
 
+
+
 #Kullanıcıdan Link Al
 mail = input("Lütfen Siteyi Giriniz!")
 mail = x + mail 
